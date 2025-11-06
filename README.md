@@ -110,11 +110,6 @@ python poi_kernel_density_merge.py
 - Shanghai Open Data Platform (`https://data.sh.gov.cn/`).
 - National Floating Population Monitoring Survey datasets (2017, 2018). 
 
-### Citation
-
-If you use this repository, please cite the accompanying report:
-
-Sun C., Song R., Wang Y., Luo J., Xiong C. “Forecasting and layout of childcare institutions based on LightGBM and a two-layer potential demand model: A Case Study of Shanghai.”
 
 ### Notes
 
