@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and large assets
+dataset/
+dataset1/
+figure/
+论文要交的东西/
+*.xlsx
+*.docx
+*.pptx
+*.zip
+*.emf
+*.png
+*.csv
+
+# OS/IDE
+.DS_Store
+.idea/
