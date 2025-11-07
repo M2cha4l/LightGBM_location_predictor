@@ -1,5 +1,5 @@
 ## Childcare Institution Layout Forecasting in Shanghai (LightGBM + Two-Layer Potential Demand Model)
-
+(Project Done in 2023. Migrated from previous account)
 This repository contains code and assets for forecasting suitable locations of childcare institutions in Shanghai using a machine-learning outer model (LightGBM) and an inner potential-demand model. The study divides the city into 127,568 grid cells at a 250 m × 250 m resolution and constructs features from five perspectives: urban functional structure, natural environment, transportation accessibility, socioeconomic context, and competitive environment.
 
 Key findings from the accompanying technical report:
